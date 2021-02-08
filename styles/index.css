@@ -68,7 +68,7 @@ a.active ,.nav-Link:hover{
     top: 240px;
 }
 .block2{
-    transform: translate(1403px,475px);
+    transform: translate(1493px,475px);
 }
 .text-Block{
     position: absolute;
@@ -125,8 +125,7 @@ h5{
 }
 .block2{
     width: 100px;
-    transform: translate(343px,-200px);
-
+    transform: translate(376px,-200px);
 }
 .logo{
     width: 75px;
@@ -164,4 +163,12 @@ h5{
     bottom: 50px;
     font-size: 10px;
 }
+footer{
+    transform: translate(-400px , 250px);
+}
+}
+li{
+    position: relative;
+    top: 50%;
+    left: 50%;
 }
